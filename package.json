@@ -1,0 +1,16 @@
+{
+  "name": "generator",
+  "main": "./lib/generator",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "generator:toggle"
+  },
+  "repository": "https://github.com/djbazio/generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
